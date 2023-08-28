@@ -22,6 +22,8 @@ dependencies {
 
     // This dependency is used by the application.
     implementation("com.google.guava:guava:31.0.1-jre")
+
+    implementation("io.javalin:javalin:5.6.2")
 }
 
 application {
