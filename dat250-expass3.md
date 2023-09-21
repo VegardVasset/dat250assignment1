@@ -3,36 +3,35 @@
 ## Installing MongoDB
 Verified the signature using SHA256 checksums and installed MongoDB using brew.
 
-![Skjermbilde 2023-09-21 kl. 12.38.50.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2012.38.50.png)
-
+![verification.png](images%2Fverification.png)
 
 
 ## Experiment 1 (CRUD operations in MongoDB)
 ### Insert
-![Skjermbilde 2023-09-21 kl. 12.55.00.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2012.55.00.png)
+![insertions.png](images%2Finsertions.png)
 
 ### Query 
-![Skjermbilde 2023-09-21 kl. 12.59.36.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2012.59.36.png)
+![queries.png](images%2Fqueries.png)
 
 ### Update
-![Skjermbilde 2023-09-21 kl. 13.01.29.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2013.01.29.png)
+![update.png](images%2Fupdate.png)
 
 ### Remove 
-![Skjermbilde 2023-09-21 kl. 13.04.01.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2013.04.01.png)
+![remove.png](images%2Fremove.png)
 
 ### Bulk write
-![Skjermbilde 2023-09-21 kl. 13.05.43.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2013.05.43.png)
+![bulk-write.png](images%2Fbulk-write.png)
 
 ## Experiment 2 (Aggregation)
 ### Examples tutorial: 
-![Skjermbilde 2023-09-21 kl. 13.13.52.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2013.13.52.png)
+![map-reduce.png](images%2Fmap-reduce.png)
 
 ### My own map-reduce operation
 Here i Created two new functions mapFunction1 and reduceFunction1. 
 The purpose of this map-reduce function is to find the earliest order date for 
 each customer. Using this is very helpful for finding out the earliest order 
 date for each customer. 
-![Skjermbilde 2023-09-21 kl. 13.21.25.png](..%2F..%2F..%2FDesktop%2FSkjermbilde%202023-09-21%20kl.%2013.21.25.png)
+![own-map-reduce.png](images%2Fown-map-reduce.png)
 
 ## Pending Issues: 
 I do not have any current pending issues. The installation process and doing
