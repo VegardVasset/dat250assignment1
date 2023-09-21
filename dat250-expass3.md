@@ -7,6 +7,7 @@ Verified the signature using SHA256 checksums and installed MongoDB using brew.
 
 
 ## Experiment 1 (CRUD operations in MongoDB)
+In this task I did the tutorials on all the CRUDE operations, underneath is some selected screenshots for the different operations tutorials
 ### Insert
 ![insertions.png](images%2Finsertions.png)
 
