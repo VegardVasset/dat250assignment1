@@ -1,6 +1,6 @@
 # Technical report
 
-Link to code: https://github.com/VegardVasset/dat250-spring-counters-todos
+Link to code: https://github.com/VegardVasset/rabbitmqtutorial
 
 ## Experiment 1
 
